@@ -7,7 +7,7 @@
 }
 
 body {
-    background: url(../imagens/body.02.avif) no-repeat;
+    background: url(../imagens/body.02.avif);
     background-size: cover;
 }
 
@@ -22,8 +22,6 @@ img#logo {
     margin: 3px;
     padding: 5px;
     margin-top: 1px;
-
-    
 }
 
 header {
@@ -51,9 +49,7 @@ h1 {
     font-size: 3em;
 }
 
-form {
-    
-}
+
 
 nav  {
    
